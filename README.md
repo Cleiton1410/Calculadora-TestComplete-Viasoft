@@ -14,21 +14,3 @@ As operações testadas são: adição, subtração, multiplicação e divisão 
 4. Opcionalmente, rode os cenários BDD definidos em `docs/Calculadora.feature`.
 
 ---
-
-## 📂 Estrutura do Projeto
-```
-scripts/              # Scripts JS para automação
-  ├── CalculatorPage.js
-  ├── CalculatorTests.js
-docs/                 # Documentação em Gherkin
-  └── Calculadora.feature
-IA_DOCUMENTACAO.md    # Registro do uso de IA
-README.md             # Este arquivo
-```
-
----
-
-## ✅ Tecnologias utilizadas
-- TestComplete (JavaScript)
-- BDD / Gherkin
-- Object Spy + Name Mapping
